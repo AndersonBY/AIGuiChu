@@ -1,0 +1,23 @@
+{
+	"width": 1280,
+	"height": 720,
+	"special times": [
+			[6.8, 7.8],
+			[10.37, 11.12],
+			[13.73, 14.65],
+			[17.17, 18.10],
+			[20.57, 21.52],
+			[24.0, 25.0],
+			[27.4, 28.4],
+			[31.0, 34.2]
+	],
+	"person clip files": [
+		"./footages/person/打野影流之主.mp4",
+		"./footages/person/蔡徐坤.mp4",
+		"./footages/person/影流之主.mp4",
+		"./footages/person/华农河边扭腰素材-70661504.mp4",
+		"./footages/person/书记跳舞片段.mp4"
+	],
+	"bgm": "./footages/bgm/银 河 之 主-76017474.mp3",
+	"background video": "./footages/background/DMT TUNNEL.mp4"
+}
